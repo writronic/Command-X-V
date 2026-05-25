@@ -1,0 +1,14 @@
+.DS_Store
+xcuserdata/
+*.xcscmblueprint
+*.xccheckout
+build/
+DerivedData/
+*.moved-aside
+*.hmap
+*.dSYM.zip
+*.dSYM
+*.xcarchive
+**/.DS_Store
+/build_*/
+/output/
